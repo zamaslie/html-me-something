@@ -1,0 +1,52 @@
+h2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+  width: 100%;
+  font-family: "Arial";
+  text-align: center;
+  background-color: #c7dff0;
+  color: #061869;
+}
+p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-family: Arial;
+    background-color: #c7dff0;
+  }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Arial;
+    background-color:#c7dff0;
+}
+.subject{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Arial;
+    background-color:#c7dff0;
+}
+#grandparents{
+    display: inline-block;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color:#c7dff0;
+    
+}
+main{
+    background-color:#c7dff0;
+}
+body{
+    background-color:#c7dff0;
+}
